@@ -202,7 +202,7 @@
 * `callback` – функция-обработчик:
 
     ```ts
-    UnsubscribeFunction = () => viod;
+    UnsubscribeFunction = () => void;
     ```
 
 Пример использования:
